@@ -156,7 +156,8 @@ ul .page_link{
     }
     
     .header_intro_links a:hover{
-         color: whitesmoke;
+        background-color: whitesmoke;
+         color: black;
         
     }
 }
